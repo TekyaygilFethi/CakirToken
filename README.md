@@ -55,4 +55,4 @@ brownie run scripts/deploy.py --network rinkeby
 
 8. After deployment check your token contract creation from https://rinkeby.etherscan.io/address/{your_contract_address}
 
-🛠 For Medium story, please follow <a href="https://fethitekyaygil.medium.com/brownie-ile-kendi-token%C4%B1m%C4%B1z%C4%B1-olu%C5%9Ftural%C4%B1m-b8023ac372bb">here</a>
+📚 For Medium story, please follow <a href="https://fethitekyaygil.medium.com/brownie-ile-kendi-token%C4%B1m%C4%B1z%C4%B1-olu%C5%9Ftural%C4%B1m-b8023ac372bb">here</a>
